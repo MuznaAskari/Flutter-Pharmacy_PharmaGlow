@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "agent-o9rm",
+  "private_key_id": "d94dc6d6f6f8a94494f1712922beaa06dd49d1b2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCqFIzAnVpx7MnA\nHLDhtB8Qh3PaXJPWbm/MgiMTLTZK8qEiNSy7i9YTdZxIsuO4G/I0G4rDDOvRpLln\nCzt0ybLql4Q9B5TQ/7qEqBjlyK4WTXn0SHsKmHqvJyCAQGnHdveFxB5CJi1RIuwo\n9MKzfk7YMK0O1rqwvjrbC73izrtv5XUPi4wRKN9U4LPkUWaMHS1rLz/K/zQp5kql\n9+Hi8BNKG4LmRJuU1dgjesTtuj6mYUNHUF7XpmQY5KiCtfeiY4ZHZHyh/0bOz5eN\nEF9NaST/KZWEQHx8P5mvLHxWYBXobhvROp+SIIMfQBmifc7qFjUUYPZkvcHHmddu\n1xGz/bsLAgMBAAECggEANrvPQgtBeIk1sfPpvnDLUHPuxhZl4yt+Ige9RuYVY1Aq\np8oJ/770ISYHqeOb4ftoWfmFEdkeKMTEf5M/SonAYLtq7IL8krfBbAB2prgKwhWj\nygfrRNEmJijGzk8sW2r/JBalkC8eBU7iRhnicIYU1IDxqGVVBhzp7uUb8hoKeusL\nc/xLa6vBoB+o1pGz/0nWVmu+UAbBgSi8HLGS1UpZkDnY/djfGYcmlwD8XcQB0Zzg\nCBc/UrBH044ro+Ov5DHWmnUUfAcxRe+dbwJdlUoRsq/eQ4fQhBcovAwqndR+hpWV\nTfEtszPWqVVXlFw8w9eqpqj+63YSVWk1exTh8qprIQKBgQDlg+Kej7sCvy1vtdpY\n6Ztzdeb8nWJrbSz8Mp9dILKLlrx4HveZT9nJ14tcobGSlvs/70nLj+SEKJhX+coh\nzR3POalWlE7id2xaesEykqjO4S3n5QGchbeA32cTgE/QnkrSTAYoIB+8q7DuXE4R\nmk+Ry4QOENatcU3bL6717587qwKBgQC9tOVzJa/OAh73/+V/ZM951D2/eD/LEygm\nHcaIVDrciIyD3dMpGDjZMkMVXCSL39Utv7sVQa5QXUZMOZ5duKdgCBKLTXwumqii\nUIBpfcRu5OJmrPqfEtLVb6scNT5fiAduc00l14UmTe5PHZ950owbkFY0CLTx+vA6\najTSpWseIQKBgGOl3TCGquVIZ8vGouRTmMCKgh1Pn7mQjyV4PSTL23krmux0VX/k\n4WP3B3TSZyyEDNX3aIzPDqIqleosc4w1aCnemR0UCyPcQdkOzu7MKiqYLbwu+4If\ntEpptHENFpo2/7lKdKnbOKxLxufWf7a4zq84Mz+AJBTtyqXNkCMLRJE9AoGAcgyX\nBSrbDpbn12DYsEYDFdMrbDj24TebI48zFDLPUFYnY/+wOzx8sNcuzWCf+BeRKffi\nmVzrVxU8dgcN1np05Z70xxrGVZ5VU3/iM4mQ1rp0AhZsdcXzSq3fyQ2ZegVlsllP\nQDjZq7WeV6IPhkW2Rbv4lz/EyNV8JyJCr4ETbQECgYEAjVdlDAyE8nSoQe4iMtnV\nl4tbcA3aorDqg4xxicT93+/fQYUYkpQPIs0C8EQ1iEAzohtE8CIIjRkH+jV0Vl6y\n0epaTD39E8HeA/4bUXK7hgw7mJDBEbnbJPzmLBZFtlsUI8tIkafFzRhRm30rWRVT\n5MtxQVwyNkKInwLdDPpzw3k=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pharmaglow-dialogflow@agent-o9rm.iam.gserviceaccount.com",
+  "client_id": "107473726687195592056",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pharmaglow-dialogflow%40agent-o9rm.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
